@@ -24,7 +24,7 @@ window.onload = function()
         }
         http.open('GET', URL);
         http.send();
-    });
+ });
 
     function createTemplate(json){
         json = JSON.parse(http.responseText);
