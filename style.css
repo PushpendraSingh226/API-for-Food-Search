@@ -11,7 +11,7 @@ body {
 }
 
 h1 {
-	color: black;
+	color: rgb(0, 0, 0);
 	display: block;
 	text-align: center;
 	font-family: cursive;
@@ -70,13 +70,13 @@ h1:hover {
 .responseSpan:nth-child(odd) {
 	background-image: url('./images/img1.jpg');
 	background-size: cover;
-	color: rgb(36, 9, 156);
+	color: rgb(37, 5, 5);
 }
 
 .responseSpan:nth-child(even) {	
 	background-image: url('./images/img2.jpg');
 	background-size: cover;
-	color: rgb(36, 9, 156);
+	color: rgb(25, 196, 82);
 }
 
 .responseSpan>h3 {
