@@ -68,13 +68,13 @@ h1:hover {
 }
 
 .responseSpan:nth-child(odd) {
-	background-image: url('./images/img1.jpg');
+	background-image: url('./Images/img1.jpg');
 	background-size: cover;
 	color: rgb(37, 5, 5);
 }
 
 .responseSpan:nth-child(even) {	
-	background-image: url('./images/img2.jpg');
+	background-image: url('./Images/img2.jpg');
 	background-size: cover;
 	color: rgb(25, 196, 82);
 }
@@ -128,7 +128,7 @@ h1:hover {
 
 .responseSpan:hover {
 	border:1px solid #f1f1f1;
-	background-image: url('./images/img3.jpg');
+	background-image: url('./Images/img3.jpg');
 	background-size: cover;
 	background-repeat: no-repeat;
 	color: white;
