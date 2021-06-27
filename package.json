@@ -1,0 +1,16 @@
+{
+  "name": "api-for-food-search",
+  "version": "1.0.0",
+  "description": "\"# API-for-Food-Search\"",
+  "main": "app.js",
+  "scripts": {
+    "predeploy": "npm run API-for-Food-Search ",
+    "deploy": "gh-pages -d API-for-Food-Search"
+  },
+  "author": "Pushpendra Singh",
+  "license": "ISC",
+  "homepage": "https://PushpendraSingh226.github.io//Recipe-Search",
+  "dependencies": {
+    "gh-pages": "^3.2.3"
+  }
+}
