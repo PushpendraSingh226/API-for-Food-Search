@@ -4,8 +4,7 @@
   "description": "\"# API-for-Food-Search\"",
   "main": "app.js",
   "scripts": {
-    "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d API-for-Food-Search"
   },
   "author": "Pushpendra Singh",
   "license": "ISC",
