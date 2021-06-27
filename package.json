@@ -4,7 +4,7 @@
   "description": "\"# API-for-Food-Search\"",
   "main": "app.js",
   "scripts": {
-    "deploy": "gh-pages -d API-for-Food-Search"
+    "deploy": "gh-pages -d dist"
   },
   "author": "Pushpendra Singh",
   "license": "ISC",
